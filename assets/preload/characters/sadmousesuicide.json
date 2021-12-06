@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				124
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "SuicideMickeyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				116
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "SuicideMickeyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				98
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "SuicideMickeyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				100
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "SuicideMickeyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				110
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "SuicideMickeyIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SuicideMickeyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SuicideMickeyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				124
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SuicideMickeyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SuicideMickeyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SuicideMickeyIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SADMOUSESUICIDE",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "suicidemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

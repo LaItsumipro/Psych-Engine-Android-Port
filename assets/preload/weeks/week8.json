@@ -16,8 +16,8 @@
 	],
 	"songs": [
 		[
-			"monochrome",
-			"deadmouse",
+			"really-unhappy",
+			"sadmouse",
 			[
 				120,
 				120,
@@ -25,15 +25,24 @@
 			]
 		],
 		[
-			"faceless",
-			"a",
+			"tristophobia",
+			"sadmousealt",
 			[
-				20,
-				0,
-				0
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"suicide",
+			"suicidemouse",
+			[
+				65,
+				65,
+				65
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "dead mouse"
+	"hideStoryMode": false,
+	"weekName": "Not Really UnHappy Week"
 }

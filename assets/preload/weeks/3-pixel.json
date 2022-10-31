@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nada",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"missingno",
+			"icon-missingno",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"brimstone",
+			"icon-buried",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"isotope",
+			"icon-glitchy-red",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"missingno",
+		"brimstone",
+		"isotope"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

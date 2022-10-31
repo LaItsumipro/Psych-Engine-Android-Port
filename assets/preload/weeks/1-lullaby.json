@@ -1,0 +1,59 @@
+{
+	"storyName": "follow me gf",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "nada",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"left-unchecked",
+		"safety-lullaby",
+		"lost-cause"
+	],
+	"songs": [
+		[
+			"safety-lullaby",
+			"icon-hypno",
+			[
+				249,
+				223,
+				68
+			]
+		],
+		[
+			"left-unchecked",
+			"icon-hypno-dead",
+			[
+				249,
+				223,
+				68
+			]
+		],
+		[
+			"lost-cause",
+			"icon-hypno-final",
+			[
+				249,
+				223,
+				68
+			]
+		],
+		[
+			"bygone-purpose",
+			"mini-hypno",
+			[
+				255,
+				255,
+				91
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "follow me gf",
+	"hiddenUntilUnlocked": false
+}

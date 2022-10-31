@@ -1,0 +1,50 @@
+{
+	"storyName": "It's so cold in your dreams I'm dead...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nada",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"frostbite",
+			"red",
+			[
+				255,
+				55,
+				55
+			]
+		],
+		[
+			"insomnia",
+			"silver",
+			[
+				108,
+				117,
+				138
+			]
+		],
+		[
+			"monochrome",
+			"gold",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"monochrome",
+		"fros",
+		"insomnia"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pokemo"
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "oh...ok",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nada",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"shitno",
+		"shinto",
+		""
+	],
+	"songs": [
+		[
+			"shinto",
+			"icon-shinto",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"shitno",
+			"shitno",
+			[
+				215,
+				175,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "a",
+	"hiddenUntilUnlocked": false
+}

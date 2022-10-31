@@ -1,0 +1,50 @@
+{
+	"storyName": "END",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nada",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pasta-night",
+		"amusia",
+		"purin"
+	],
+	"songs": [
+		[
+			"amusia",
+			"icon-sfu",
+			[
+				163,
+				103,
+				117
+			]
+		],
+		[
+			"purin",
+			"icon-jigglypuff",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"pasta-night",
+			"icon-lord-x",
+			[
+				61,
+				62,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}
